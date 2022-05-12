@@ -39,7 +39,7 @@ Wide-section stores store information in tables, lines, and dynamic segments.
 - No normalization
 - Restricted inquiry abilities (up until now)
 - At the point when the volume of information expands it is hard to keep up with special qualities as keys become troublesome
-
+- Doesn't fill in also with social informations
 
 **Conclusion:**
 
