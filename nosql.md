@@ -43,7 +43,7 @@ Wide-section stores store information in tables, lines, and dynamic segments.
 
 **Conclusion:**
 
-NoSQL is a non-social DMS, that doesn't need a proper blueprint, stays away from joins, and is not difficult to scale. The idea of NoSQL information bases become well known with Internet goliaths like Google, Facebook, Amazon, and so on who manage immense volumes of information. NoSQL offers restricted question abilities. The expression "possible consistency" signifies to have duplicates of information on various machines to get high accessibility and adaptability. The BASE represents Basically Available, Soft state, Eventual consistency
+NoSQL is a non-social DMS, that doesn't need a proper blueprint, stays away from joins, and is not difficult to scale. The idea of NoSQL information bases become well known with Internet goliaths like Google, Facebook, Amazon, and so on who manage immense volumes of information. NoSQL offers restricted question abilities. The expression "possible consistency" signifies to have duplicates of information on various machines to get high accessibility and adaptability. The BASE represents Basically Available, Soft state, Eventual consistency.
 
 
 
